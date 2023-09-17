@@ -175,12 +175,12 @@
       <form action="#">
         <div class="form-row">
           <div class="input-data">
-            <input type="text" required />
+            <input placeholder="Enter your first name" type="text" required />
             <div class="underline"></div>
             <label for="">First Name</label>
           </div>
           <div class="input-data">
-            <input type="text" required />
+            <input placeholder="Enter your last name" type="text" required />
             <div class="underline"></div>
             <label for="">Last Name</label>
           </div>
