@@ -207,7 +207,7 @@
             <div class="form-row submit-btn">
               <div class="input-data">
                 <div class="inner"></div>
-                <input type="submit" value="submit" />
+                <input type="submit" value="OK" />
               </div>
             </div>
           </div>
