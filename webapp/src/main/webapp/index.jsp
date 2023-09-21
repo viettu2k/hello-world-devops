@@ -136,7 +136,7 @@
     <div class="card">
       <div class="card2">
         <form class="form">
-          <p id="heading">Login/p></p>
+          <p id="heading">Login</p>
           <div class="field">
             <svg
               viewBox="0 0 16 16"
@@ -153,7 +153,7 @@
             <input
               type="text"
               class="input-field"
-              placeholder="ID(メールアドレス)"
+              placeholder="ID"
               autocomplete="off"
             />
           </div>
@@ -173,7 +173,7 @@
             <input
               type="パスワード"
               class="input-field"
-              placeholder="パスワード"
+              placeholder="Password"
             />
           </div>
           <div class="btn">
