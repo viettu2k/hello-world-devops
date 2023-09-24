@@ -29,7 +29,8 @@
         text-align: center;
         margin: 2em;
         color: rgb(255, 255, 255);
-        font-size: 1.2em;
+        font-size: 2rem;
+        font-style: bold;
       }
 
       .field {
