@@ -78,6 +78,7 @@
         transition: 0.4s ease-in-out;
         background-image: linear-gradient(163deg, #00ffff 10%, #6423ff 90%);
         color: rgb(255, 255, 255);
+        cursor: pointer;
       }
 
       .button1:hover {
@@ -87,6 +88,7 @@
       }
 
       .button2 {
+        cursor: pointer;
         padding: 0.5em;
         padding-left: 2.3em;
         padding-right: 2.3em;
@@ -105,6 +107,7 @@
       }
 
       .button3 {
+        cursor: pointer;
         margin-bottom: 3em;
         padding: 0.5em;
         border-radius: 5px;
